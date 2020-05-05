@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        .4sliceofbacon{
+            background-color:red;
+        }
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Grilled Cheese Sandwiches with Bacon and Tomatoes Recipe</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li>4 slices of Bread</li>
+            <li>4 slices of Bacon</li>
+            <li>Tomatoes</li>
+            <li>Cheese</li>
+            <li>5 tablespoon of butter</li>
+            
+        </ol>
+        
+        <h2 id="?"></h2>
+        
+        <ul>
+            <li>Time: 10 minute</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Directions</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p>Spread about 1 tablespoon butter into the bottom of a large skillet (or just leave some fat in the pan from the bacon).
+Spread 1 tablespoon (can use more) onto one side of each slice of bread.
+Place the 4 slices of bread butter-side down onto a large skillet or flat grill.
+Top with 1 slice of cheese, 2 slices of tomato and 2 slices cooked bacon, then 1 more slice of cheese.
+Cover with a slice of bread (butter-side facing outside).
+Fry over medium turning once with a spatula until golden brown on both sides.
+
+
+
+</p>
+        
+    <p><em>Source: <a href="?">Some recipes websites</a></em> </p>
+    
+    </body>
+</html>
